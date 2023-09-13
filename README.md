@@ -18,7 +18,7 @@
 
  # 4- population increasing rate 
 
- we can discover that the average is increasing in a line way (showing in the dashboard) and that shows how is the world facing a huge amount of population increasing
+ we can discover that the average is increasing in a line way (showing in the dashboard) and that shows how the world is facing a huge amount of population increasing
  <br>
  # 5- Max and Min countries in growth rate
  <br>
