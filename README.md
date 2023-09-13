@@ -1,6 +1,6 @@
 # world_population
  know more about world population over the continents and different countries
- # about the project
+ ## about the project
  programs used:
  _Kaggle for dataset
  _goggle BiqQuery cloud using sql for cleaning data
