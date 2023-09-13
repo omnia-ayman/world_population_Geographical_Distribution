@@ -13,7 +13,7 @@
  we can find that Asia is the maximum continent in population from 2000 to 2022 and the second is Africa. May Asia got the first place because of the big area and many many countries! so let us jump to the next question.
  <br>
   
- ### 2- How does area affects the number of population 
+ ### 2- How area affects on the number of population 
  BY visualization .. discover that asia is the most 2022 population and the max area found there ,the second is africa and the third is north america which highlight the big relation between area and population founded  
 
  ### 3- population increasing rate 
