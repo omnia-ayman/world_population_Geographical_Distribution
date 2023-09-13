@@ -39,7 +39,7 @@ SELECT Country_Territory,Continent,Growth_Rate
  SELECT  Continent,Country_Territory,World_Population_Percentage,
  FROM `eco-hangar-397203.world_population.world_population`
  ORDER BY World_Population_Percentage DESC
- LIMIT 5
+ LIMIT 3
 
 -- comparing among continents in world population over 2000s from 2010 to 2022
  SELECT Continent, SUM(_2022_population) AS population22, SUM(_2020_Population) AS population20,
