@@ -2,9 +2,13 @@
  know more about world population over the continents and different countries
  ### about the project
  programs used:
+ <br>
  _Kaggle for dataset
+ <br>
  _goggle BiqQuery cloud using sql for cleaning data
+ <br>
  _tableau for visualization 
+ <br>
  note: queries mensioned here are the same in world population final project.sql file 
  <br> 
  ### overview 
