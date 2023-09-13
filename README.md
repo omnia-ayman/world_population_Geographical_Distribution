@@ -18,7 +18,7 @@
 
  ### 3- population increasing rate 
 
- we can discover that the average is increasing in a line way (showing in the dashboard) and that shows how the world is facing a huge amount of population increasing
+ the project covers the rank of countries population num with the most continents population density. focusing on avg population among years, we can discover that the average is increasing in a line way (showing in the dashboard) and that shows how the world is facing a huge amount of population increasing
  <br>
  ### 4- Max and Min countries in growth rate
  <br>
